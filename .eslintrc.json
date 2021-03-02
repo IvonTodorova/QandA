@@ -8,5 +8,8 @@
                 "endOfLine": "auto"
             }
         ]
-    }
+    },
+    "globals": {
+        "cy": true
+        }
 }
