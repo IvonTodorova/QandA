@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IVON\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IVON\\.nuget\\packages"
+    ]
+  }
+}
